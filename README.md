@@ -4,3 +4,4 @@ Follow the steps below to get this project up and running locally.
 2) cd AutoComplete
 3) npm install
 4) npm run dev
+5) Open http://localhost:5174/ in your browser
